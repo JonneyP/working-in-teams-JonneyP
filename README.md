@@ -2,7 +2,9 @@
 tips for working in teams
 
 ### Tips for Working in Teams
-1. Try 
+1. Try
 1. to
 1. be
 1. friendly :3
+1. Tip one
+2. Tip Two
